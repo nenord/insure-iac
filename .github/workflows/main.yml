@@ -27,7 +27,7 @@ jobs:
     #    inlineScript: |
     #      az login
 
-      # Deploy Bicep file - test5
+      # Deploy Bicep file - test6
     - name: deploy
       uses: azure/arm-deploy@v1
       with:
